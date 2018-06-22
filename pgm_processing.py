@@ -5,6 +5,8 @@ Created on Fri Jun 15 17:42:36 2018
 Intro.
 PGM(5/9) files process
 
+http://netpbm.sourceforge.net/doc/pgm.html
+
 @author: vincchen
 """
 import numpy as np
