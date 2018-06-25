@@ -1,7 +1,7 @@
 # Python_Library
 Self-defined Python Library
 
-## **CVkmeans4K.py**:  
+**CVkmeans4K.py**:  
 Conduct cross-validation Kmeans thru K to figure out the best K  
 
 **Kmeans_2DImageSet.py**:
@@ -15,10 +15,10 @@ calculate the RMS of two image-difference
 
 **MNIST_data**:  
 tensorflow minst data set.  
-Usage: 
-from tensorflow.examples.tutorials.mnist import input_data  
-mnist = input_data.read_data_sets('MNIST_data', one_hot=True)  
-mnist.train.images  
-mnist.train.labels  
-mnist.test.images  
-mnist.test.labels  
+-Usage: 
+-from tensorflow.examples.tutorials.mnist import input_data  
+-mnist = input_data.read_data_sets('MNIST_data', one_hot=True)  
+-mnist.train.images  
+-mnist.train.labels  
+-mnist.test.images  
+-mnist.test.labels  
